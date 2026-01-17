@@ -1,7 +1,6 @@
+![banner_my](https://github.com/user-attachments/assets/e49607e2-afe1-4093-9cf7-554bab37f69d)
 <h1 align="center">Hi 👋, I'm Bidhan Singh</h1>
 <h3 align="center">Flutter Developer | Mobile App Enthusiast</h3>
-
-
 
 ---
 
