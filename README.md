@@ -33,7 +33,7 @@ Modern mobile UI designs using Flutter.
 
 ## 📫 Contact Me
 - GitHub: https://github.com/Bidhansingh9931  
-- Email: your-email@gmail.com  
+- Email: bidhansingh9931@gmail.com  
 
 ---
 
