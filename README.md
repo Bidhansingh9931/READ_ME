@@ -13,5 +13,5 @@
 - PHP & MySQL (learning backend)
 
 ## 📫 Contact Me
-- Email: your-email@gmail.com
+- Email: bidhansingh9931@gmail.com
 - GitHub: https://github.com/Bidhansingh9931
