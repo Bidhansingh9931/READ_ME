@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bidhan Singh</h1>
 <h3 align="center">Flutter Developer | Mobile App Enthusiast</h3>
-![Uploading banner_my.jpeg…]()
+
 
 
 ---
