@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bidhan Singh</h1>
 <h3 align="center">Flutter Developer | Mobile App Enthusiast</h3>
-![banner]("C:\Users\bidha\OneDrive\Desktop\banner_my.jpeg")
+![Uploading banner_my.jpeg…]()
+
 
 ---
 
